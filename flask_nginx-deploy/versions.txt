@@ -1,0 +1,4 @@
+Flask=2.3.3
+Docker-compose=2.5.0
+Docker=24.0.6
+Python=3
